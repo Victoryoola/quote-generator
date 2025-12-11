@@ -25,6 +25,13 @@ Requirements: Node.js (>=16) and npm.
 
 3. Open http://localhost:3000
 
+# Deployment
+https://simplequotegen.netlify.app/
+
+## License
+
+MIT License
+
 ## File Structure
 ```
 src/
@@ -36,9 +43,4 @@ src/
 ├── App.css
 └── index.js
 
-# Deployment
-https://simplequotegen.netlify.app/
 
-## License
-
-MIT License
